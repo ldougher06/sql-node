@@ -1,0 +1,23 @@
+{
+  "name": "sql-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldougher06/sql-node.git"
+  },
+  "author": "logan dougher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldougher06/sql-node/issues"
+  },
+  "homepage": "https://github.com/ldougher06/sql-node#readme",
+  "dependencies": {
+    "pg": "^4.4.1",
+    "sqlite3": "^3.1.1"
+  }
+}
